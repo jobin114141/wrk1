@@ -18,7 +18,7 @@ videos.forEach((video, index) => {
                 <!-- header starts -->
                 <div class="videoHeader">
                     <span class="material-icons"></span>
-                    <h3>Reels</h3>
+                      <img src="icon1.png" alt="Reels Header Image" style="width: 100px; height: auto;">
                     <span class="material-icons"></span>
                 </div>
                 <!-- header ends -->
