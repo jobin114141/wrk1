@@ -1,5 +1,5 @@
 const videos = [
-    { src: '1.mp4', song: 'Song 1', description: 'This is the first video description.' },
+    { src: '1.mp4', song: 'Song 1', description: 'This is first video description.' },
     { src: '2.mp4', song: 'Song 2', description: 'This is the second video description.' },
     { src: '3.mp4', song: 'Song 3', description: 'This is the third video description.' },
     { src: '4.mp4', song: 'Song 4', description: 'This is the fourth video description.' },
